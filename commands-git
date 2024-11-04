@@ -5,3 +5,6 @@ git clone https://github.com/Anna-Marras/git-begins
 git add .
 git commit -m "Nom commit"
 git push 
+
+# Commande pour pull
+git pull origin main
