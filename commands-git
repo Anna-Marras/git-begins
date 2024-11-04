@@ -1,0 +1,7 @@
+# Cloner un repository
+git clone https://github.com/Anna-Marras/git-begins
+
+# Commande pour push
+git add .
+git commit -m "Nom commit"
+git push 
